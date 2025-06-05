@@ -1,0 +1,14 @@
+C:\Users\tiago\source\repos\ProjetoBD\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\tiago\source\repos\ProjetoBD\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\tiago\source\repos\ProjetoBD\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\tiago\source\repos\ProjetoBD\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\tiago\source\repos\ProjetoBD\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\tiago\source\repos\ProjetoBD\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\tiago\source\repos\ProjetoBD\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\tiago\source\repos\ProjetoBD\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\tiago\source\repos\ProjetoBD\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\tiago\source\repos\ProjetoBD\Projeto\Projeto\obj\Debug\Projeto.exe.config
+C:\Users\tiago\source\repos\ProjetoBD\Projeto\Projeto\obj\Debug\Projeto.LogIn.resources
+C:\Users\tiago\source\repos\ProjetoBD\Projeto\Projeto\obj\Debug\Projeto.MainMenuForm.resources
+C:\Users\tiago\source\repos\ProjetoBD\Projeto\Projeto\obj\Debug\Projeto.ProfileForm.resources
+C:\Users\tiago\source\repos\ProjetoBD\Projeto\Projeto\obj\Debug\Projeto.UserCreateForm.resources
